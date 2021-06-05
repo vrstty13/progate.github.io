@@ -1,0 +1,204 @@
+* {
+  ukuran kotak: kotak perbatasan;
+}
+
+tubuh {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+Sebuah {
+  dekorasi teks: tidak ada;
+}
+
+.bersih {
+  jelas: kiri;
+}
+
+.wadah {
+  lebar maksimum: 1170 piksel;
+  bantalan: 0 15px;
+  margin: 0 otomatis;
+}
+
+.top-wrapper {
+  pengisi: 180 piksel 0 100 piksel 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  ukuran latar belakang: sampul;
+  warna putih;
+  perataan teks: tengah;
+}
+
+.top-wrapper h1 {
+  opasitas: 0,7;
+  ukuran font: 45px;
+  spasi huruf: 5px;
+  margin-bawah: 10px;
+}
+
+.pembungkus atas p {
+  opasitas: 0,7;
+  margin-bawah: 3px;
+}
+
+.btn-wrapper {
+  perataan teks: tengah;
+  margin: 20 piksel 0;
+}
+
+.btn-wrapper p {
+  margin: 10 piksel 0;
+}
+
+.Daftar {
+  warna latar: #239b76;
+}
+
+.facebook {
+  warna latar: #3b5998;
+  margin-kanan: 10px;
+}
+
+.Indonesia {
+  warna latar: #55acee;
+}
+
+.btn {
+  bantalan: 12px 24px;
+  warna putih;
+  tampilan: blok sebaris;
+  opasitas: 0,8;
+  batas-radius: 4px;
+  perataan teks: tengah;
+}
+
+.btn:arahkan kursor {
+  opasitas: 1;
+}
+
+.fa {
+  margin-kanan: 5px;
+}
+
+tajuk {
+  tinggi: 65px;
+  lebar: 100%;
+  warna latar belakang: rgba(34, 49, 52, 0.9);
+  posisi : tetap;
+  atas: 0;
+  indeks-z: 10;
+}
+
+.logo {
+  lebar: 124px;
+  margin-atas: 20px;
+}
+
+.header-kiri {
+  mengapung: kiri;
+}
+
+.header-kanan {
+  mengapung: benar;
+  margin-kanan: -25px;
+}
+
+.header-kanan a {
+  tinggi garis: 65px;
+  bantalan: 0 25px;
+  warna putih;
+  tampilan: blok;
+  mengapung: kiri;
+  transisi: semua 0,5 detik;
+}
+
+.header-kanan a:arahkan kursor {
+  warna latar belakang: rgba(255, 255, 255, 0.3);
+}
+
+.menu-ikon{
+  warna putih;
+  mengapung: benar;
+  ukuran font: 25px;
+  bantalan: 21 piksel 0;
+  tampilan: tidak ada;
+}
+
+.lesson-wrapper {
+  bantalan-bawah: 80px;
+  padding-kiri: 5%;
+  padding-kanan: 5%;
+  warna-latar belakang: #f7f7f7;
+  perataan teks: tengah;
+}
+
+.tajuk {
+  padding-top: 80px;
+  bantalan-bawah: 50px;
+  warna: #5f5d60;
+}
+
+.judul h2 {
+  font-berat: normal;
+}
+
+.pelajaran {
+  mengapung: kiri;
+  lebar: 25%;
+}
+
+.pelajaran-ikon {
+  posisi: relatif;
+}
+
+.pelajaran-ikon p {
+  posisi: mutlak;
+  atas: 44%;
+  lebar: 100%;
+  warna putih;
+}
+
+.teks-konten {
+  lebar: 80%;
+  tampilan: blok sebaris;
+  margin-atas: 15px;
+  ukuran font: 15px;
+  warna: #b3aeb5;
+}
+
+.heading h3 {
+  font-berat: normal;
+}
+
+.pembungkus pesan {
+  border-bottom: 1px solid #eee;
+  bantalan-bawah: 80px;
+  perataan teks: tengah;
+}
+
+.pesan {
+  bantalan: 15px 40px;
+  warna latar: #5dca88;
+  kursor: penunjuk;
+  kotak-bayangan: 0 7px #1a7940;
+}
+
+.pesan:aktif {
+  posisi: relatif;
+  atas: 7 piksel;
+  bayangan kotak: tidak ada;
+}
+
+gambar kaki {
+  lebar: 125px;
+}
+
+catatan kaki p {
+  warna: #b3aeb5;
+  ukuran font: 12px;
+}
+
+catatan kaki {
+  padding-atas: 30px;
+  bantalan-bawah: 20px;
+}
